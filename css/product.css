@@ -1,0 +1,287 @@
+.tow{
+	width: 1020px;
+	height: 1160px;
+	margin:auto;
+	position: relative;
+	margin-top: 30px;
+}
+.bannc{
+	width: 301px;
+	height: 1160px;
+	float: left;
+}
+.bannc1{
+	width: 695px;
+	height: 1160px;
+	float: left;
+	margin-left: 24px;
+}
+.tow_1{
+	width: 100%;
+	height: 28px;
+	margin-left: 10px;
+}
+.tow_1 b{
+	font-size: 14px;
+}
+.tow_1 a{
+	font-size: 13px;
+}
+.tow_2{
+	width: 291px;
+	height: 63px;
+	margin-left: 10px;
+	background: #DEDEDE;
+}
+.tow_3 {
+	width: 291px;
+	height: 33px;
+	margin-top: 10px;
+	margin-left: 10px;cursor: pointer;
+	background: url(../img/libg16.gif);
+}
+.tow_3 p{
+	margin-left:40px ;
+	font-weight: bold;
+	line-height: 33px;
+	font-size: 15px;
+	color: white;
+	font-family: "微软雅黑";
+}
+.tow .ul1{
+	width: 180px;
+	height: 0;
+	margin-top: 10px;
+    margin-left: 60px;
+    overflow: hidden;
+    transition: 1s;
+}
+.tow .ul1 li{
+	line-height: 25px;
+	
+}
+.tow .ul1 a{
+	font-size: 15px;
+}
+
+.ul2{
+	width: 291px;
+	height: 177px;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.ul2 li:hover .ul2_2{
+	background: red;
+}
+.ul2 li:hover .ul2_2 p{
+	color: white;
+}
+.ul2 li{
+	width: 291px;
+	height: 33px;
+	margin-top: 15px;
+}
+.ul2 li a{
+	font-family: "微软雅黑";
+}
+.ul2_1{
+	width: 27px;
+	height: 33px;
+	float: left;
+	background: url(../img/libg10.gif) no-repeat;
+}
+.ul2_2{
+	width: 264px;
+	height: 33px;
+	float: left;
+	background: #DCDCDC;
+}
+
+.ul2_2 p{
+	margin-left:10px ;
+	font-weight: bold;
+	line-height: 33px;
+	font-size: 15px;
+	color: gray;
+	font-family: "微软雅黑";
+}
+.tow_4 {
+	width: 291px;
+	height: 40px;
+	margin-top: 10px;
+	margin-left: 10px;
+	background: url(../img/t4.gif) no-repeat;
+}
+.ul3{
+	width: 291px;
+	height: 168px;
+	margin-left: 10px;
+	margin-top: 19px;
+}
+.ul3 li{
+	width: 291px;
+	height: 45px;
+	margin-top: 15px;
+	line-height: 20px;
+	border-bottom: 1px dashed gray;
+}
+.ul3 li p{
+	font-size: 13px;
+	
+}
+.ul3 li:hover p{
+	color: red;
+}
+.tow_5{
+	width: 291px;
+	height: 40px;
+	margin-top: 31px;
+	margin-left: 10px;
+	background: url(../img/t6.gif) no-repeat;
+}
+.ul4{
+	width: 291px;
+	height: auto;
+	margin-left: 10px;
+	margin-top: 30px;
+}
+.ul4 li{
+	width: 100%;
+	height: 71px;
+	margin-top: 1px;
+}
+.ul5_1{
+	width: 156px;
+	height: 71px;
+	/*color: white;*/
+	font-size: 12px;
+	float: left;
+	position: relative;
+}
+.ul5_2{
+	width: 135px;
+	height: 71px;
+	font-size: 12px;
+	float: left;
+	background: 0 -71px url(../img/libg14.gif) no-repeat;
+}
+.ul5_1_1{
+	width: 12px;
+	height: 24px;
+	position: absolute;
+	right: 0;
+	top: 25px;
+	background: url(../img/libg8.gif) no-repeat;
+}
+.ul5_2 p:nth-of-type(1){
+      line-height: 28px;
+	}
+.ul5_2 p:nth-of-type(2){
+	      line-height: 28px;
+    font-size: 25px;
+    margin-left: 15px
+	}
+
+.ul4 li:hover .ul5_1_1{
+	background-position: 0 -24px;
+}
+.ul4 li:hover .ul5_2{
+	background-position: 0 0;
+	color: white;
+}
+.ul4 a:hover{
+	color: red;
+}
+.right_1{
+	width: 603px;
+	height: 63px;
+	margin-top: 27px;
+	margin-left: -4px;
+	background: url(../img/bg12.png) no-repeat;
+}
+.right_ul{
+	width: 695px;
+	height: 1030px;
+	margin-top: 11px;
+	background: white;
+}
+.right_ul li{
+	width: 347px;
+	height: 340px;
+    float: left;
+}
+.right_ul li:nth-child(2){
+	margin-left: 32px;
+}
+.right_ul li img{
+	width: 319px;
+	height: 239px;
+}
+.right_ul li p:nth-of-type(1){
+	width: 271px;
+	height: 33px;
+	line-height: 33px;
+	padding-left: 10px;
+	float: left;
+	font-size: 12px;
+	color: #4F4F4F;
+	background: #C8C8C8;
+	margin-top: 27px;
+}
+.p_div{
+	width: 35px;
+	height: 24px;
+	 margin-left: 281px;
+    margin-top: 27px;
+	background: #C8C8C8;
+}
+.p_div_1{
+	width: 35px;
+	height: 16px;
+	margin-left: 281px;
+    margin-top: -7px;
+	background: #C8C8C8;
+}
+.p_div_1 span{
+	display: none;
+	font-size: 12px;
+}
+.p_div span{
+	font-size: 23px;
+	font-weight: bold;
+	display: none;
+}
+.right_ul li p:nth-of-type(2){
+	font-size: 12px;
+	float: left;
+	margin-top: 7px;
+}
+.right_ul li p:nth-of-type(3){
+	font-size: 12px;
+	float: right;
+	margin-right: 32px;
+	margin-top: 7px;
+}
+.right_ul li:hover p:nth-of-type(1){
+	background: yellow;
+}
+.right_ul li:hover .p_div_1{
+	background: yellow;
+}.right_ul li:hover .p_div{
+	background: yellow;
+}
+.right_ul li:hover p{
+	color: red;
+}
+.right_ul li:hover span{
+	color: red;
+	margin-top: 3px;
+	display: block;
+}
+.right_ul li:hover .p_div_1{
+	width: 35px;
+	height: 12px;
+	margin-left: 281px;
+    margin-top: -7px;
+    display: block;
+}

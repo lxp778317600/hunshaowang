@@ -1,0 +1,118 @@
+.one_p {
+	width: 221px;
+	height: 20px;
+	margin: auto;
+	text-align: center;
+	margin-top: 24px;
+	font-weight: bold;
+	font-size: 20px;
+	color: #525252;
+}
+
+.tow {
+	width: 980px;
+	height: 820px;
+	margin: auto;
+	margin-top: 30px;
+	padding-left: 20px;
+}
+
+.tow_1 {
+	width: 960px;
+	height: 28px;
+	margin-left: 10px;
+}
+
+.tow_1 b {
+	font-size: 14px;
+}
+
+.tow_1 a {
+	font-size: 13px;
+}
+
+.tow_2 {
+	width: 700px;
+	height: 720px;
+	margin: auto;
+	/*background: crimson;*/
+}
+
+.tow_2 .uq {
+	width: 613px;
+    height: 105px;
+	margin: auto;
+}
+
+.tow_2 .uq li {
+	width: 84px;
+	height: 71px;
+	margin-left: 12px;
+	background: url(../img/ico_none.gif) no-repeat;
+	overflow: hidden;
+	float: left;
+	cursor: pointer;
+	position: relative;
+}
+.tow_2 .uq li:hover {
+	background: url(../img/ico_bg.gif) no-repeat;
+}
+
+.tow_2 .uq li:nth-child(1) {
+	width: 13px;
+	height: 84px;
+	margin-top: 12px;
+	background: none;
+}
+.tow_2 .uq li p{
+	position: absolute;
+	font-size: 12px;
+	color: white;
+	background: black;
+	    bottom: 12px;
+    left: 4px;
+}
+.one_1 {
+	width: auto;
+	height: 55px;
+	margin: 0px 3px;
+	margin-top: 6px;
+	background: url(../img/pos1.jpg) no-repeat center;
+	background-size: cover;
+}
+
+.tow_2 ul li:nth-child(7) {
+	width: 13px;
+	height: 84px;
+	margin-top: 12px;
+	background: none;
+}
+.datu{
+	
+	    transition: 2s;
+	background: url(../img/datu_03.png);
+}
+.end_{
+	width: 613px;
+	height: 608px;
+	    margin-left: 20px;
+	    position: relative;
+}
+.end_ li{
+	width: 613px;
+	height: 608px;
+	position: absolute;
+	transition: 1s;
+}
+.end_ li:nth-child(1){
+	background: url(../img/datu_03.png);
+}
+.end_ li:nth-child(2){
+	background: url(../img/datu_03.png);
+}.end_ li:nth-child(3){
+	background: url(../img/datu_03.png);
+}.end_ li:nth-child(4){
+	background: url(../img/datu_03.png);
+}.end_ li:nth-child(5){
+	background: urlurl(../img/bannic.jpg);
+}
